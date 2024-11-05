@@ -65,11 +65,11 @@
     
   <h4>Installation</h4>
     <ul>
-      <li>1. Clone the repository:</li>
+      <h3>1. Clone the repository:</h3>
       <li><code>cd Chat</code></li>
-      <li>2. Run the server:</li>
+      <h3>2. Run the server:</h3>
       <li><code>python Server.py</code></li>
-      <li>3. In separate terminal windows, run each client:</li>
+      <h3>3. In separate terminal windows, run each client:</h3>
       <li><code>python Client1.py</code></li>
       <li><code>python Client2.py</code></li>
     </ul>
