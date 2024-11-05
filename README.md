@@ -3,43 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Chat Application</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h3 {
-      color: #333;
-    }
-    ul, p {
-      text-align: left;
-      max-width: 700px;
-      margin: 0 auto;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    li {
-      margin: 8px 0;
-    }
-    .section {
-      background-color: #f9f9f9;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      margin-top: 20px;
-    }
-    .icon {
-      font-weight: bold;
-      color: #007bff;
-    }
-    .project-structure, .usage {
-      background-color: #e9f5ff;
-    }
-  </style>
 </head>
 <body>
   <h1 style="margin: 10px 0;">Chat Application</h1>
