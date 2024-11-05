@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1 style="margin: 10px 0;">Chat Application</h1>
-  <h3 style="margin: 10px 0;">A Lightweight TCP and UDP Chat Server and Client</h3>
+  <h3 style="margin: 10px 0;">A TCP and UDP Chat Server and Client</h3>
   
   <p style="text-align: left; max-width: 700px; margin: 0 auto;">
     This project demonstrates the fundamentals of network programming using Python sockets and multithreading. The chat application supports multiple clients for real-time message broadcasting through TCP and UDP connections.
