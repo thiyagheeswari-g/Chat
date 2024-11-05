@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Chat Application</title>
 </head>
 <body>
   <h1 style="margin: 10px 0;">Chat Application</h1>
@@ -59,25 +58,21 @@
       <li>📣 <strong>Message Broadcast:</strong> Messages sent by one client are broadcast to all other connected clients.</li>
     </ul>
   </div>
+
+  <div class="section getting-started">
+    <h3>Getting Started</h3>
+    <p><strong>Prerequisites:</strong> <code>Python 3.x</code> installed on your machine.</p>
+    
+  <h4>Installation</h4>
+    <ul>
+      <li>1. Clone the repository:</li>
+      <li><code>cd Chat</code></li>
+      <li>2. Run the server:</li>
+      <li><code>python Server.py</code></li>
+      <li>3. In separate terminal windows, run each client:</li>
+      <li><code>python Client1.py</code></li>
+      <li><code>python Client2.py</code></li>
+    </ul>
+  </div>
 </body>
 </html>
-
-
-
-
-
-**Getting Started**
-
-**Prerequisites**
-Python 3.x
-
-**Installation**
-1. Clone the repository:
-   cd Chat
-
-2. Run the server:
-   python Server.py
-
-3. In separate terminal windows, run each client:
-   python Client1.py
-   python Client2.py
